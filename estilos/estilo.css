@@ -1,0 +1,80 @@
+.jumbotron {
+    background-color: #003B6D;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+    background-image: url("../imgs/HTML_Blog-scaled.png");
+    background-size: cover;
+}
+
+.jumbotron2 {
+    background-color: #003B6D;
+    color: #fff;
+    padding: 50px 25px;
+    font-family: Montserrat, sans-serif;
+    background-image: url("../imgs/HTML_Blog-scaled.png");
+    background-size: cover;
+}
+
+.glow-text-blue {
+    text-shadow: 0px 0px 4px #003B6D !important;
+    }
+
+.glow-text-gold {
+    text-shadow: 0px 0px 6px gold !important;
+}
+
+#about p {
+    margin: 0;
+    text-indent: 2rem;
+    text-align: justify;
+}
+.opacity-low {
+    opacity: .3;
+}
+
+h2 {
+    margin-top: 100px !important;
+}
+
+.icon-list {
+    font-size: 3rem;
+}
+
+ul {
+    list-style: none;
+}
+
+#skills p {
+    margin-top: 30px !important;
+}
+
+body {
+    font: 400 15px Lato, sans-serif !important;
+    color: #fff !important;
+    background-color: rgb(0, 0, 0) !important;
+}
+
+
+#skills {
+    margin-top: 100px !important;
+    background-color: #003B6D !important;
+    color: #FFF;
+}
+
+#skills li {
+    color: black;
+}
+
+#contact {
+    margin-top: 100px !important;
+    font: 400 15px Lato, sans-serif !important;
+    background-color: #003B6D !important;
+    color: #FFF;
+}
+
+#contact i {
+    color: #fff;
+}
+
+
